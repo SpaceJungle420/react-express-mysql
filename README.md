@@ -1,2 +1,2 @@
 # react-express-mysql
-- - Udemy course: (React in easy steps with Node and Java Backend)
+- Udemy course: (React in easy steps with Node and Java Backend)
